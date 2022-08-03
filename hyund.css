@@ -1,0 +1,220 @@
+.nav{
+    display: flex;
+}
+
+.log{
+    margin-top: 17px;
+    margin-left: 20%;
+}
+li{
+    display: inline-block;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.header{
+    text-align: center;
+    margin-top: 50px;
+}
+.car1{
+    margin-left: 20%;
+   
+}
+.classification{
+    text-align: center;
+    margin-top: 60px;
+    cursor: pointer;
+}
+.features{
+    display: flex;
+    margin-left: 20%;
+    font-family: 'HyundaiMedium';
+   
+}
+.cars{
+    display: flex;
+}
+.f2{
+    margin-left: 30px;
+}
+.f1{
+   
+    color: #002c5f;
+}
+.icon{
+    color: #002c5f;
+    margin-top: 25px;
+    margin-left: 5px;
+}
+.f2{
+    font-size: 14px;
+
+}
+.heading{
+    font-size: 14px;
+    color: #888;
+}
+
+   
+.middlesection{
+    background-color: #f6f3f2;
+    height: 100px;
+
+}
+
+.btn{
+    margin-top: 10px;
+   background-color: #767676; 
+width: 15%;  
+   height: 50px;
+   color: #fff ;
+   cursor: pointer;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+}
+.section2{
+   background-color: #002c5f;  
+   color: #fff ;
+   padding-bottom: 30px;
+   margin-top: 20px;
+}
+.text{
+    padding-top: 10px;
+    margin-left: 15%;
+}
+.imageset1{
+    display: flex;
+    justify-content: center;
+}
+.hyundaiimage{
+    margin-top: 190px;
+}
+.img2{
+    margin-left: 15px;
+}
+.head{
+    font-size: 12px;
+    color: #002c5f;
+ line-height: 1;
+   letter-spacing: 0.1em;
+}
+.para{
+    font-size: 18px;
+}
+.imageset2{
+    
+        display: flex;
+        justify-content: center;
+        margin-top: 90px;
+}
+
+.buttonlast{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.btnlast{
+    margin-top: 10px;
+    background-color: #002c5f;
+    width: 15%;  
+   height: 50px;
+   color: #fff ;
+   cursor: pointer;
+}
+.lastsec{
+    margin-top: 50px;
+}
+.instap1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
+.instap2{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.im{
+    
+    width: 30%;
+}
+.news{
+    background-color: #f6f3f2;
+    height: 450px;
+    margin-top: 70px;
+}
+.newshead{
+   padding-top: 30px;
+    text-align: center;
+    
+    line-height: 54px;
+     letter-spacing: 0.7px;
+}
+.headlines{
+    width: 50%;
+    margin: 0px auto;
+    font-size: 30px;
+    line-height: 40px;
+    letter-spacing: 0.5px;
+    background-color: white;
+    color: #000;
+    text-align: center;
+}
+.hh{
+font-size: 16px;
+line-height: 28px;
+letter-spacing: 0.3px;
+color: #767676;
+}
+.footer2{
+    text-align: center;
+}
+.footheader{
+    padding-top: 50px;
+}
+.forms{
+    background-color: #f6f3f2;
+    height: 200px;
+}
+.boxform{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 40px;
+   
+   
+  }
+  .frm{
+    color: #666;
+    width: 15%;
+  }
+  .footer{
+    
+    
+    background: rgb(28, 27, 27);
+    height: 230px;
+    color: white;
+   
+  }
+  .sec11{
+    display: flex;
+    padding-top: 20px;
+  }
+  .fa{
+    background-color: white
+  }
+  .ct{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 15%;
+    margin-top: 2%;
+  }
+  .button{
+    margin-top: 40px;
+  }
+  
